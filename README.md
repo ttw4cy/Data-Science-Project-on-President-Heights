@@ -15,6 +15,12 @@
         - Desvio padrão de altura = 6.931843442745892
         - Minima altura = 163
         - Maxima altura = 193
+        - 25o percentil = 174.25
+        - Mediana = 182.0
+        - 75o percentil = 183.0
+        
+![Distribuição das alturas presidentes EUA](https://i.imgur.com/BYXWyCK.png)
+        
 
 
 ## Entrada de dados com as informações do presidentes
