@@ -18,7 +18,8 @@
         - 25o percentil = 174.25
         - Mediana = 182.0
         - 75o percentil = 183.0
-        
+ ## Distribuição das alturas presidentes EUA
+ 
 ![Distribuição das alturas presidentes EUA](https://i.imgur.com/BYXWyCK.png)
         
 
